@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import { MainPage } from './components/MainPage/MainPage';
 import { Route } from 'react-router-dom';
-import { InfoPage } from './components/InfoPage/InfoPage';
 import { Footer } from './components/Footer/Footer';
 
 function App() {
