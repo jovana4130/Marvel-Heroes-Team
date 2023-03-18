@@ -1,0 +1,11 @@
+.width {
+    width: 100%;
+    background-color: #3bf012;
+    margin-bottom: 20px;
+}
+.text {
+    color: #000000;
+    text-align: left;
+    width: 100%;
+    font-weight: bold;
+}

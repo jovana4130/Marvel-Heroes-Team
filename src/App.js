@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 import { Header } from './components/Header/Header'
-//import { MainPage } from './components/MainPage/MainPage';
-import { Route } from 'react-router-dom';
+import { MainPage } from './components/MainPage/MainPage';
+//import { Route } from 'react-router-dom';
 import { Footer } from './components/Footer/Footer';
 //import { SearchInput } from './components/SearchInput'
 
