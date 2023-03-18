@@ -3,12 +3,11 @@ import { Header } from './Header/Header';
 import './MainPage/MainPage';
 
 
-export const MainContent = () => {}
+export const MainPage = () => {}
 
 
 
-
-//export { MainPage };
+export { MainPage };
 
 
 
