@@ -1,6 +1,5 @@
 import React from 'react';
-import { Header } from '.Header/Header.js';
-import './MainPage/MainPage.css';
+import './MainPage.css';
 import { useEffect, useState } from 'react';
 
 export const MainPage = () => {

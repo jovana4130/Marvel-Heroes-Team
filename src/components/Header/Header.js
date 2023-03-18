@@ -1,7 +1,6 @@
-import React from 'react';
 import './Header.css';
 
-const Header = () => {
+export const Header = () => {
     return (
         <div>
             <Header>
@@ -11,5 +10,5 @@ const Header = () => {
     );
 };
 
-export { Header };
+
 

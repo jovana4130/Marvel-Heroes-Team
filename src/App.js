@@ -10,8 +10,8 @@ function App() {
   return (
     <div className='App'>
         <Header>Hero Team</Header>
-          <div className='search-input'></div>
-            <MainPage></MainPage>
+        <div className='search-input'></div>
+        <MainPage></MainPage>
         <Footer></Footer>
     </div>
   );
