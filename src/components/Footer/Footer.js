@@ -3,7 +3,7 @@ import './Footer.css'
 
 export const Footer = () => {
     return (
-        <div>
+        <div className='footer'>
             <footer>
                 Jovana Vucetic 2023.
             </footer>
