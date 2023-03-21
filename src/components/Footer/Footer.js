@@ -4,9 +4,9 @@ import './Footer.css'
 export const Footer = () => {
     return (
         <div>
-            <Footer>
+            <footer>
                 Jovana Vucetic 2023.
-            </Footer>
+            </footer>
         </div>
     )
 }
