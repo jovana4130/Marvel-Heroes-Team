@@ -9,7 +9,7 @@ export const MainPage = () => {
     }
 
     useEffect(() => {
-        fetch('http://gateway.marvel.com/v1/public/characters?apikey=____42c944f16bc51826eb97319ae90f78b6')
+        fetch('http://gateway.marvel.com/v1/public/characters?apikey=42c944f16bc51826eb97319ae90f78b6')
         .then(data => data.json())
         .then( 
             res => {
@@ -37,7 +37,7 @@ export const MainPage = () => {
     )
 }
 
-export {  };
+export default MainPage;
 
 
 

@@ -9,10 +9,10 @@ import { Footer } from './components/Footer/Footer.js';
 function App() {
   return (
     <div className='App'>
-        <Header>Hero Team</Header>
+        <Header/>
         <div className='search-input'></div>
-        <MainPage></MainPage>
-        <Footer></Footer>
+        <MainPage/>
+        <Footer/>
     </div>
   );
 };
