@@ -28,8 +28,8 @@ export const MainPage = () => {
                         <img src={ character.thumbnail.path + '.' + character.thumbnail.extension } alt={ character.name } />
                     </div>
                 <div className='button-box'>
-                    <button>Info</button>
-                    <button>Add</button>
+                    <button className='info'>Info</button>
+                    <button className='add'>Add</button>
                 </div>
             </div> 
             ))}
