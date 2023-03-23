@@ -24,7 +24,7 @@ function App() {
             <Route path="*" element={<div>ROUTE NOT FOUND</div>} />
           </Routes>
         </div>
-        <div onClick={clickLogo} className='logo'><span>&#169;</span> Katarina Krstić</div>
+        <div onClick={clickLogo} className='logo'><span>&#169;</span> Jovana Vucetic 2023.</div>
       </div>
     </>
   );
